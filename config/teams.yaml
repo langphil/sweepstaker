@@ -6,7 +6,7 @@ Argentina:
   status: In
 Australia:
   backer: Jim
-  status: In
+  status: Out
 Belgium:
   backer: Bury
   status: In
@@ -18,7 +18,7 @@ Brazil:
   status: In
 Cameroon:
   backer: Orla
-  status: In
+  status: Out
 Chile:
   backer: Ken
   status: In
@@ -84,7 +84,7 @@ South Korea:
   status: In
 Spain:
   backer: Brona
-  status: In
+  status: Out
 Switzerland:
   backer: Paul
   status: In
